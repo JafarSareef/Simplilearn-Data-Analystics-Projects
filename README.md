@@ -69,7 +69,7 @@ Each project demonstrates **data cleaning, visualization, and business storytell
 ---
 ## 🎥 Demo Walkthrough
 Watch my LinkedIn post showcasing the dashboards here:  
-[View Demo Video on LinkedIn](https://www.linkedin.com/posts/jafarsareef_dataanalytics-powerbi-tableau-ugcPost-7427069911686082560-eRFF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxCrWsBLBf0eBw16KDjd0Eysh0Z9SO1acs)
+[View Demo Video on LinkedIn](<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7427069911686082560?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>)
 
 
 ## 🛠️ Skills Demonstrated
