@@ -52,6 +52,7 @@ Each project demonstrates **data cleaning, visualization, and business storytell
      - Discount influence on orders
      - Age group ordering patterns
    - **Insights**: Helps understand customer behavior and target promotions.
+   -  Amazon Sales FY2024-2025 – [View on Tableau Public](https://public.tableau.com/app/profile/jafar.sareef.a/viz/AmazonSalesFY2024-2025/AmazonSales).
 
 5. **HR Data Analytics**
    - **Dataset**: Kaggle HR Attrition
@@ -62,6 +63,8 @@ Each project demonstrates **data cleaning, visualization, and business storytell
      - Impact of job satisfaction, income, work-life balance
      - Age group trends in attrition
    - **Insights**: Supports employee retention and workforce planning.
+   - HR Employee Attrition – [View on Tableau Public](https://public.tableau.com/app/profile/jafar.sareef.a/viz/HREmployeeAttrition_17707453162160/HREmployeeAttrition)
+
 
 ---
 
@@ -83,6 +86,10 @@ Tableau/
 Sales_Dashboard.twbx
 Customer_Analysis_Dashboard.twbx
 HR_Data_Analytics.twbx
+
+## 🔗 Tableau Portfolio
+Explore all my dashboards here: [Tableau Public Profile](https://public.tableau.com/app/profile/jafar.sareef.a/vizzes)
+
 
 
 ---
