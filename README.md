@@ -44,7 +44,7 @@ Each project demonstrates **data cleaning, visualization, and business storytell
    - **Insights**: Enables pricing, product focus, and regional planning.
 
 4. **Customer Analysis Dashboard**
-   - **Dataset**: Kaggle Amazon Sales FY 2020-2021
+   - **Dataset**: Kaggle Amazon Sales FY 2024-2025
    - **Business Questions**:
      - Regions & states generating maximum revenue
      - Preferred payment methods
