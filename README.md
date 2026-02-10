@@ -94,5 +94,5 @@ Skilled in **Power BI, Tableau, SQL, Python, and Data Visualization**, I build d
 ---
 
 ## 🔗 Connect
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [LinkedIn](https://www.linkedin.com/in/jafarsareef/)  
 - [GitHub](https://github.com/JafarSareef)
